@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Acessar &lsaquo; Vendas.Maveric &#8212; WordPress</title>
+	<title>Acessar &lsaquo; Vendas.Maverick &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="stylesheet" id="dashicons-css" href="./wp-includes/css/dashicons.min.css?ver=6.2.2" media="all">
 <link rel="stylesheet" id="buttons-css" href="./wp-includes/css/buttons.min.css?ver=6.2.2" media="all">
@@ -47,7 +47,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 				<p id="backtoblog">
-			<a href="./index.html">&larr; Ir para Vendas.Maveric</a>		</p>
+			<a href="./index.html">&larr; Ir para Vendas.Maverick</a>		</p>
 			</div>
 				<div class="language-switcher">
 				<form id="language-switcher" action="" method="get">
