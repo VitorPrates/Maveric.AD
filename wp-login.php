@@ -9,7 +9,6 @@
 <link rel="stylesheet" id="forms-css" href="./wp-admin/css/forms.min.css?ver=6.2.2" media="all">
 <link rel="stylesheet" id="l10n-css" href="./wp-admin/css/l10n.min.css?ver=6.2.2" media="all">
 <link rel="stylesheet" id="login-css" href="./wp-admin/css/login.min.css?ver=6.2.2" media="all">
-<link rel="stylesheet" id="microthemer-css" href="./wp-content/micro-themes/active-styles.css?mts=170#038;ver=6.2.2" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 		</head>
@@ -89,7 +88,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="./wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/paginavendas\/wordpress\/wp-admin\/admin-ajax.php"}};</script>
 <script src="./wp-includes/js/wp-util.min.js?ver=6.2.2" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"42c184f28f"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"40e498f4de"};</script>
 <script id="user-profile-js-translations">( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
