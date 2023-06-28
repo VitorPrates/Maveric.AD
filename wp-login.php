@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Acessar &lsaquo; Vendas.Maverick &#8212; WordPress</title>
+	<title>Acessar &lsaquo; MaverickSpecialTools.product &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="stylesheet" id="dashicons-css" href="./wp-includes/css/dashicons.min.css?ver=6.2.2" media="all">
 <link rel="stylesheet" id="buttons-css" href="./wp-includes/css/buttons.min.css?ver=6.2.2" media="all">
@@ -46,7 +46,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 				<p id="backtoblog">
-			<a href="./index.html">&larr; Ir para Vendas.Maverick</a>		</p>
+			<a href="./index.html">&larr; Ir para MaverickSpecialTools.product</a>		</p>
 			</div>
 				<div class="language-switcher">
 				<form id="language-switcher" action="" method="get">
@@ -88,7 +88,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="./wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/paginavendas\/wordpress\/wp-admin\/admin-ajax.php"}};</script>
 <script src="./wp-includes/js/wp-util.min.js?ver=6.2.2" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"82ca984b19"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"ff8a2e15d6"};</script>
 <script id="user-profile-js-translations">( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
